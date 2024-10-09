@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Tylekeo - Phân Tích Tỷ Lệ Kèo Nhanh Chóng và Chính Xác
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Tylekeo global là địa chỉ chuyên cung cấp thông tin soi kèo chuẩn xác cho mọi giải đấu. Với thiết kế giao diện thân thiện và dễ sử dụng, người dùng dễ dàng tra cứu tỷ lệ kèo, cập nhật thông tin mới nhất và đưa ra dự đoán trận đấu một cách chính xác. Truy cập ngay: https://tylekeo.global/ 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ:
 
-.. note::
+Website: https://tylekeo.global/ 
 
-   This project is under active development.
+Địa chỉ: 898 Đ. Quang Trung, Phường 8, Gò Vấp, Hồ Chí Minh
 
-Contents
---------
+Phone: 0394.101.292
 
-.. toctree::
+Email: tylekeoglobal@gmail.com
 
-   usage
-   api
+#tylekeo #Tỷ lệ kèo #tylekeo global #tỷ lệ kèo nhà cái
